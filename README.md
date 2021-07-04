@@ -84,6 +84,21 @@ management.endpoints.web.exposure.include=*
 
 `Java` `Spring Boot` `Spring Boot Admin` 
  
+
+
+#Example Sites:
+
+I used this Forum project as a test: https://github.com/carlosjunior1983/springboot-api-rest-forum
+
+<h1 align="center">
+    <img alt="forum" title="forum" src="https://github.com/carlosjunior1983/springboot-admin-server-monitoring/blob/main/img/monitor.PNG"  /><br>
+</h1>
+
+
+<h1 align="center">
+    <img alt="forum" title="forum" src="https://github.com/carlosjunior1983/springboot-admin-server-monitoring/blob/main/img/monitor2.PNG"  /><br>
+</h1>
+
  
  
  
