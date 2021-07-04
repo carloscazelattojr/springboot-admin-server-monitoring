@@ -3,7 +3,7 @@
 Application Monitoring Project with Spring Boot Admin Server
 
 
-## Project: Dependêncy
+## Project Dependency
 
 - Spring Web
 
