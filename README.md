@@ -90,15 +90,15 @@ management.endpoints.web.exposure.include=*
 # Example Sites:
 
 
-I used this Forum project as a test: https://github.com/carlosjunior1983/springboot-api-rest-forum
+I used this Forum project as a test: https://github.com/carloscazelattojr/springboot-api-rest-forum
 
 <h1 align="center">
-    <img alt="forum" title="forum" src="https://github.com/carlosjunior1983/springboot-admin-server-monitoring/blob/main/img/monitor.PNG"  /><br>
+    <img alt="forum" title="forum" src="https://github.com/carloscazelattojr/springboot-admin-server-monitoring/blob/main/img/monitor.PNG"  /><br>
 </h1>
 
 
 <h1 align="center">
-    <img alt="forum" title="forum" src="https://github.com/carlosjunior1983/springboot-admin-server-monitoring/blob/main/img/monitor2.PNG"  /><br>
+    <img alt="forum" title="forum" src="https://github.com/carloscazelattojr/springboot-admin-server-monitoring/blob/main/img/monitor2.PNG"  /><br>
 </h1>
 
 
